@@ -1,0 +1,4 @@
+1 2 3 0	        ; three different stamp types
+7 4 0           ; two customers
+1 1 0           ; a new set of stamps (two of the same type)
+6 2 3 0	        ; three customers
